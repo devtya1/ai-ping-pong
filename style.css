@@ -1,0 +1,24 @@
+.heading{
+    color: white;
+    text-align: left;
+    width: 100%;
+}
+
+.heading h1{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid black;
+}
+
+#start, #status{
+    font-size: 25px;
+}
+
+.footer{
+    bottom: 0;
+    text-align: center;
+    background-color: rgba(51, 255, 119, 0.556);
+}
